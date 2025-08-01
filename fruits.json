@@ -1,32 +1,32 @@
 [
   {
     "image": "https://firebasestorage.googleapis.com/v0/b/frites-ieee.firebasestorage.app/o/frawla.png?alt=media&token=2b885d55-2755-4144-ae81-d65d0cea6b1f",
-    "name": "فراولة",
+    "name": "Strawberry",
     "price": "30"
   },
   {
     "image": "https://firebasestorage.googleapis.com/v0/b/frites-ieee.firebasestorage.app/o/bati5.png?alt=media&token=d931e06e-ee56-46cd-85c8-4a32d827a582",
-    "name": "بطيخ",
+    "name": "Watermelon",
     "price": "20"
   },
   {
     "image": "https://firebasestorage.googleapis.com/v0/b/frites-ieee.firebasestorage.app/o/Avocado.png?alt=media&token=4d23853b-567e-4d6a-b278-71cfb9704b5b",
-    "name": "أفوكادو",
+    "name": "Avocado",
     "price": "200"
   },
   {
     "image": "https://firebasestorage.googleapis.com/v0/b/frites-ieee.firebasestorage.app/o/ananas.png?alt=media&token=12431c7f-d974-4cab-9739-ec7078052d7c",
-    "name": "أناناس",
+    "name": "Pineapple",
     "price": "20"
   },
   {
     "image": "https://firebasestorage.googleapis.com/v0/b/frites-ieee.firebasestorage.app/o/mooz.png?alt=media&token=5b6066e4-5f8f-4cbe-a20f-2b87a4035ccb",
-    "name": "موز",
+    "name": "Banana",
     "price": "20"
   },
   {
     "image": "https://firebasestorage.googleapis.com/v0/b/frites-ieee.firebasestorage.app/o/mango.png?alt=media&token=52a21d95-fd40-468f-9cb3-9257574cab78",
-    "name": "مانجو",
+    "name": "Mango",
     "price": "60"
     
   }
